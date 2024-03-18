@@ -15,7 +15,7 @@ This project focuses on analyzing the sentiment of news articles related to FAAN
 - NLTK
 - Matplotlib
 - Seaborn
-- 
+  
 ## Model
 **Random Forest Classifier**: Random Forest is utilized as a classification model to classify sentiment categories based on the textual features extracted from news articles.
 
